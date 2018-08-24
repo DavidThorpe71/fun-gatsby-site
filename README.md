@@ -2,7 +2,7 @@
 
 ### 🚀 Quick start
 
-1.  `gatsby develop`
+1.  run `gatsby develop` in command line.
 
 
 2.  The site is now running at `http://localhost:8000`
